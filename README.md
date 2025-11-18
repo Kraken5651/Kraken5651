@@ -25,12 +25,12 @@
 
 ### 🧰 Tech Stack
 
-![UE5](https://img.shields.io/badge/Unreal_Engine_5-111111?style=flat&logo=unrealengine&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=yellow)
-![C++](https://img.shields.io/badge/C++-111111?style=flat&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-111111?style=flat&logo=c&logoColor=283593)
-![Blender](https://img.shields.io/badge/Blender-111111?style=flat&logo=blender&logoColor=F5792A)
-![VSCode](https://img.shields.io/badge/VS_Code-111111?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![UE5](https://img.shields.io/badge/UE5-000000?style=flat-square&logo=unrealengine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=283593)
+![Blender](https://img.shields.io/badge/Blender-000000?style=flat-square&logo=blender&logoColor=F5792A)
+![VSCode](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
