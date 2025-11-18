@@ -24,30 +24,29 @@
 
 ---
 
-### 🧰 Tech Stack Badges (Rounded Corners)
-
+### 🧰 Tech Stack  
 <a href="https://www.unrealengine.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Unreal_Engine_5-000000?style=flat&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine_5-0d1117?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </a>
 
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow" />
 </a>
 
 <a href="https://isocpp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img src="https://img.shields.io/badge/C-283593?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=283593" />
 </a>
 
 <a href="https://www.blender.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=F5792A" />
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 </a>
 
 ---
@@ -63,3 +62,4 @@
 - 🏋️‍♂️ Gym & calisthenics keep me disciplined  
 - 🎧 I work best with music or complete silence  
 - 🛠 Enjoy building systems, tools, and experimental mini-projects  
+
