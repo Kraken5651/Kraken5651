@@ -52,13 +52,6 @@
 
 ---
 
-### 📊 Top Languages  
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraken5651&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### ⚡ Fun Facts  
 - 🏋️‍♂️ Gym & calisthenics keep me disciplined  
 - 🎧 I work best with music or complete silence  
