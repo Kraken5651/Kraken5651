@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">Unreal Engine Developer • Python & C++ Programmer • 3D & Electronics Enthusiast</h3>
+<h3 align="center">Unity Game Developer • Python & C# Programmer • 3D & Electronics Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me  
-- Developing gameplay systems and tools in **Unreal Engine 5**  
+- Developing gameplay systems and tools in **Unity**  
 - Using **Blender** for modeling, lighting, and creative work  
 - Building hardware projects that integrate **Electronics** with software  
 - Interested in combining creativity, engineering, and interactive experiences  
