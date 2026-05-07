@@ -10,17 +10,6 @@
 
 ---
 
-### 🌐 Connect with Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/karankumar47/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40"/>
-</a>
-<a href="https://www.instagram.com/karan5651k/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
-</a>
-</p>
-
----
 
 ### 🧰 Tech Stack
 
@@ -39,3 +28,17 @@
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </a>
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/karankumar47/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40"/>
+</a>
+<a href="https://www.instagram.com/karan5651k/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
+</a>
+</p>
+
+
