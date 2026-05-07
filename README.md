@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">Game Developer • Unity • C#</h3>
+<h3 align="center">Game Developer • Unity • C# • Blender</h3>
 
 ---
 
